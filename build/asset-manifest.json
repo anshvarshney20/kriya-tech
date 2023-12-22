@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5168e2c.css",
+    "main.js": "/static/js/main.e256ac4e.js",
+    "static/media/phone_2.png": "/static/media/phone_2.4852ac1006c4c457f5e9.png",
+    "static/media/phone_1.png": "/static/media/phone_1.e5976031b5a4418580dd.png",
+    "index.html": "/index.html",
+    "main.f5168e2c.css.map": "/static/css/main.f5168e2c.css.map",
+    "main.e256ac4e.js.map": "/static/js/main.e256ac4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5168e2c.css",
+    "static/js/main.e256ac4e.js"
+  ]
+}
